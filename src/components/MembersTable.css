@@ -1,0 +1,18 @@
+.tableContainer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.deleteIcon {
+    color: red;
+    margin-left: 20px;
+}
+
+.editIcon {
+    color: blue;
+}
+
+.actionContainer {
+    display: flex;
+    justify-content: center;
+}
